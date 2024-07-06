@@ -1,0 +1,12 @@
+[font.normal]
+family = "Hack Nerd Font"
+style = "Regular"
+
+[shell]
+program = "/bin/zsh"
+
+[window]
+opacity = 0.2
+
+[font]
+size = 10

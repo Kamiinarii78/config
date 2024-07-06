@@ -1,0 +1,8 @@
+dep:
+    i3
+    polybar
+    alacritty
+    rofi
+    zsh
+    oh my zsh
+    picom

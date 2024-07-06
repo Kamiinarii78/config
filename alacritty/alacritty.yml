@@ -1,0 +1,10 @@
+font:
+  normal:
+    family: Hack Nerd Font
+    style: Regular
+
+shell:
+  program: /bin/zsh
+  
+window:
+    opacity: 0.5
